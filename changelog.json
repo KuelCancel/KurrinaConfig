@@ -1,0 +1,32 @@
+{
+    "changelogs": [
+        {
+            "text": "Via Version",
+            "type": 0
+        },
+        {
+            "text": "Web Browser",
+            "type": 0
+        },
+        {
+            "text": "Discord RPC",
+            "type": 0
+        },
+        {
+            "text": "Entity Culling",
+            "type": 0
+        },
+        {
+            "text": "Godbridge Assist",
+            "type": 0
+        },
+        {
+            "text": "New FPS Boost Settings",
+            "type": 0
+        },
+        {
+            "text": "Memoryu Leak",
+            "type": 1
+        }
+    ]
+}
